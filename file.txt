@@ -1,2 +1,4 @@
 echo " This is a text file for git  practice."
 
+this is second line edited from dev branch.
+
